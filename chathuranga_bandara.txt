@@ -1,4 +1,4 @@
-<span id="a">chathu@chathuranga</span>:<span id="b">~</span><span id="c">$</span> cat chathuranga_bandara.txt<br/><br/>
+<span id="a">drunkencub@chathuranga</span>:<span id="b">~</span><span id="c">$</span> cat chathuranga_bandara.txt<br/><br/>
 Hi, I'm  Chathuranga Bandara.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>I am an experienced Software Architect and a Technical Project Manager specialized in Open Source technologies (Mostly Python and related tech).</p><!-- qowifjqwoeijfoqweijfqweoifjqweofijqweoqwoijefoqwijefoijfqiwoefjj -->
 <p>I'm the co-founder of SpeakPython Foundation and currently a Software Architect in <a href='https://www.virtusa.com'  target="_blank">Virtusa</a>.</p><!- oqwipjefqwioefjwioqfjoiqwjfeioqwjefoi -->
 <p>My interests are Python, Flask, Django, VueJS, NodeJs, technology management and machine learning.</p><!-- owlsqweoifjqwoefijqwoeifjqwoefijwef -->
